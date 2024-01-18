@@ -6,7 +6,7 @@ This version is based on the third edition of the book "How to Think Like a Comp
 
 [![Documentation Status](https://readthedocs.org/projects/howtothink/badge/?version=latest)](http://howtothink.readthedocs.org/en/latest/?badge=latest)
 
-This book is used for the course "Programming for Life Scientists" as taught at the University of Groningen (RuG). As such, the original book was adapted to specifically suit this course. The main point here was to change the goal of the book from "how to think like a computer scientist" to "how to think as a scientist with a computer". In other words, the emphasis has been put on learning how to use a computer (and Python) to solve everyday scientific problems.
+This book is used for the course "Programming for Life Scientists" and "Prograaming for Psychologists" as taught at the University of Groningen (RuG). As such, the original book was adapted to specifically suit this course. The main point here was to change the goal of the book from "how to think like a computer scientist" to "how to think as a scientist with a computer". In other words, the emphasis has been put on learning how to use a computer (and Python) to solve everyday scientific problems.
 
 In addition, this version has been stripped of chapters that are not necessary for your first steps in python or which distract from the zen of python.
 
